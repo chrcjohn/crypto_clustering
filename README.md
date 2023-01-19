@@ -32,8 +32,8 @@ Using our knowledge of the K-means algorithm, we create an elbow curve using hvP
 
 Using your knowledge of creating scatter plots with Plotly Express and hvplot, you’ll visualize the distinct groups that correspond to the three principal components i created in section 2, then i'll create a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
 ## 3 PCA data on cluster graph
-![bokeh_plot (1)](https://user-images.githubusercontent.com/23088053/213335902-eedd7f30-5abd-49f2-abe7-c3a3633e568a.png)
+![newplot](https://user-images.githubusercontent.com/23088053/213335918-53791203-3acc-445b-862a-47e095b648a6.png)
 ## tradable cryptocurrencies cluster graph
 ![newplot (1)](https://user-images.githubusercontent.com/23088053/213335908-761f7d22-de52-4096-8618-d06780032e77.png)
 ## Hvplot.scatter using x="TotalCoinsMined" and y="TotalCoinSupply
-![newplot](https://user-images.githubusercontent.com/23088053/213335918-53791203-3acc-445b-862a-47e095b648a6.png)
+![bokeh_plot (1)](https://user-images.githubusercontent.com/23088053/213335902-eedd7f30-5abd-49f2-abe7-c3a3633e568a.png)
